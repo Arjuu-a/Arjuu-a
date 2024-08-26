@@ -1,13 +1,33 @@
-- 👋 Hi, I’m @Arjuu-a
-- 👀 I’m interested in Data Analyst roles 
-- 🌱 I’m currently learning many data analytics tools and can integrate ai in applications to maximise efficiency.
-- 💞️ I’m looking to collaborate on with experienced professionals for my career development.
-- 📫 How to reach me , mail:jayanagarjun11@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Jaya Nagarjun N 👋
 
-<!---
-Arjuu-a/Arjuu-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a recent MBA graduate with a major in Finance, HR, and Systems, currently seeking opportunities in the Finance and Data Analytics domain. I have completed several certificate courses in data analytics, which have equipped me with the skills and knowledge to excel in this field.
+
+## Skills
+- **Finance**: Financial Analysis, Risk Management, Financial Modeling, Financial Risk analytics, Credit Risk Modelling 
+- **Data Analytics**: Data Visualization, Statistical Analysis, Predictive Modeling
+- **Tools**: Excel, Power BI, SQL, Python, Tableau, R, C, MS Office
+
+## Certifications
+- Analytics Introduction - Great Learning Academy
+- Deep Learning - Great Learning Academy
+- Data visualization using Python - Great Learning Academy
+- Data Science Foundations - Great Learning Academy
+- ChatGPT for Excel - Great Learning Academy
+- Data Visualization using Power BI - Great Learning Academy
+- Data Analysis using Excel - Great Learning Academy
+- Analytics in Finance - Great Learning Academy
+- Financial Accounting - Great Learning Academy
+- Data Analysis Projects - Great Learning Academy
+- Google Analytics - Great Learning Academy
+  
+## Projects
+- **Sample Analysis of Sales Data that depicts the sales of various wooden items such as Furnitures , Chairs & Chairmats, Large Boxes and their sales percentage over different countries and regions around the world that is visualized in the form of Pie Charts, Line Charts and other KPI's, Bar Chart.
+
+## Connect with Me
+!LinkedIn https://www.linkedin.com/in/jaya-nagarjun
+!Email jayanagarjun11@gmail.com 
+
+## Top Languages
+!Python, R , C, SQL
 
