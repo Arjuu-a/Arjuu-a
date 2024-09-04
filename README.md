@@ -38,6 +38,7 @@ NumPy
 Pandas 
 Scipy 
 Matplotlib
+MS Excel 
 
 📊 GitHub Stats:
 
