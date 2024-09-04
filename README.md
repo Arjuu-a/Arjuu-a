@@ -28,7 +28,16 @@ Top Languages
 !Python, R , C, SQL
 
 💻 Tech Stack:
-C Python R Anaconda Canva Adobe Photoshop NumPy Pandas Scipy Matplotlib
+C 
+Python
+R
+Anaconda
+Canva
+Adobe Photoshop 
+NumPy 
+Pandas 
+Scipy 
+Matplotlib
 
 📊 GitHub Stats:
 
