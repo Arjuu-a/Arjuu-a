@@ -1,6 +1,7 @@
 💫 About Me:
 Hi there, I’m Jaya Nagarjun N 👋
 About Me
+
 I am a recent MBA graduate with a major in Finance, HR, and Systems, currently seeking opportunities in the Finance and Data Analytics domain. I have completed several certificate courses in data analytics, which have equipped me with the skills and knowledge to excel in this field.
 
 Skills
